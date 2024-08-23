@@ -2,6 +2,7 @@
 Welcome to my Data Science Projects repository! This collection of projects showcases my journey and experience in various fields of data science,  machine learning , data analysis . web scraping and data visualization. Each project dives deep into solving real-world problems using cutting-edge data science techniques.
 
 **Table of Contents:**
+
 . Machine Learning
 . Data Visualization
 . Data Analysis
